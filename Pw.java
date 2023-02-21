@@ -4,4 +4,8 @@ class PW
 	{
 		///your 1st demo code
 	}
+	public void m1()
+	{
+		///code2
+	}
 }
